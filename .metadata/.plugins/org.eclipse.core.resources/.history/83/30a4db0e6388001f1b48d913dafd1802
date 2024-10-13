@@ -1,0 +1,33 @@
+package com.phonebook.service;
+
+import java.util.List;
+
+import com.phonebook.entity.Contact;
+
+public class ContactServiceImpl implements ContactService {
+
+	public boolean saveContact(Contact c) {
+		return false;
+	}
+
+	public List<Contact> getAllContacts() {
+
+		return null;
+	}
+
+	public Contact getContactById(Integer id) {
+
+		return null;
+	}
+
+	public boolean updateContact(Contact c) {
+
+		return false;
+	}
+
+	public boolean deleteContact(Integer id) {
+
+		return false;
+	}
+
+}

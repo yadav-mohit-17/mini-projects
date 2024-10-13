@@ -1,0 +1,49 @@
+
+
+Q) What is Minutes of Meeting(MoM)?
+-> A Minutes of Meeting (MoM) is a written document that summarizes the key discussions, decisions, and action items from a meeting. Its primary purpose is to provide a clear and concise record of what was discussed and agreed upon during the meeting.
+
+
+SAMPLE EMAIL OF MOM (MINUTES OF MEETING)
+---------------------------------------------
+
+Subject: Minutes of Meeting - [Meeting Date]
+
+Dear [Recipient's Name],
+
+I hope this email finds you well. Please find attached the Minutes of Meeting (MoM) for our recent discussion held on [Meeting Date]. The meeting was productive, and we covered the following agenda items:
+
+Meeting Details:
+
+Date: [Meeting Date]
+Time: [Meeting Time]
+Location/Platform: [Physical location or virtual platform used]
+Attendees:
+
+List of participants present: [List names]
+Agenda Items Discussed:
+
+[Brief summary of each agenda item discussed]
+Decisions Made:
+
+[List of decisions made during the meeting]
+Action Items:
+
+[List of action items assigned to each participant]
+Deadlines and responsibilities outlined for each action item.
+Next Steps:
+
+[Summary of next steps or follow-up actions]
+Please review the attached MoM for accuracy and completeness. If you have any corrections or additional points to add, kindly let me know by [Specify deadline for feedback, if any]. Your prompt review and feedback are appreciated.
+
+Thank you for your attention to this matter. Should you have any questions or require further clarification on any of the discussed points, please don't hesitate to reach out.
+
+Best regards,
+
+[Your Full Name]
+[Your Position]
+[Your Contact Information]
+
+Attachments:
+
+Minutes of Meeting (MoM) - [Meeting Date]

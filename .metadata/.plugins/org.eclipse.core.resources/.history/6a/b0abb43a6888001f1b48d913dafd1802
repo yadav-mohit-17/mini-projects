@@ -1,0 +1,5 @@
+package com.phnbk.dto;
+
+public interface ContactDto {
+
+}

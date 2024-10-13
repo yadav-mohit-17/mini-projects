@@ -1,0 +1,14 @@
+package com.phnbk.service;
+
+import java.util.List;
+
+import com.phnbk.Entity.ContactEntity;
+
+public interface ContactService {
+	
+	boolean saveContact(ContactEntity c);
+	List<ContactEntity> getAllContacts();
+	ContactEntity getContactById(Integer id);
+	boolean updateContact(ContactEntity c);
+	boolean deleteContact(Integer id);
+}

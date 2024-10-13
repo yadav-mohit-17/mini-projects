@@ -1,0 +1,21 @@
+package com.phnbk.Entity;
+
+import java.util.Date;
+
+import jakarta.persistence.Entity;
+import jakarta.persistence.Table;
+import lombok.Data;
+
+@Data
+@Entity
+@Table(name="CONTACT_DTLS")
+public class ContactEntity {
+	
+	private Integer contactId;
+	private String contactName;
+	private String contactEmail;
+	private Long contactNumber;
+	private Date createdDate;
+	private Date updatedDate;	
+
+}

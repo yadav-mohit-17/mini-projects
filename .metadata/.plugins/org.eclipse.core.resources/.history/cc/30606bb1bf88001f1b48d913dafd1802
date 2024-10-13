@@ -1,0 +1,14 @@
+server:
+  port: 6060
+spring:
+  datasource:
+    driver-class-name: oracle:jdbc:drive:OracleDriver
+    password: root
+    url: jdbc:oracle:thin@localhost:1521/xe
+    username: root
+  jpa:
+    database-platform: org.hibernate.dialect.MySQL8Dialect
+    hibernate:
+      ddl-auto: update
+      show-sql: true
+      format_sql: true

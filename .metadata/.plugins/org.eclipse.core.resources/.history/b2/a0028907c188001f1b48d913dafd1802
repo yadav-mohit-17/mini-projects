@@ -1,0 +1,17 @@
+server:
+  port: 6060
+  servlet:
+    context-path: /PhoneBook
+spring:
+  datasource:
+    driver-class-name: oracle.jdbc.driver.OracleDriver
+    password: abc_123
+    url: jdbc:oracle:thin:@localhost:1521:xe
+    username: phnbk_local
+  jpa:
+    database-platform: org.hibernate.dialect.MySQL8Dialect
+    hibernate:
+     
+      show-sql: true
+      format_sql: true
+      ddl-auto: update
