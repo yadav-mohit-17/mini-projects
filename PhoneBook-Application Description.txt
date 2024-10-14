@@ -1,0 +1,11 @@
+PhoneBook Application is a Web Application. To Develop this application we Follow Real time industry coding standard. To develop this application we use language Java(Core-java, Jsp).
+
+Framework     : SpringBoot, SpringMvc
+ORM	      : Hibernate
+Testing	      : Junit & Mockito
+CodeCoverage  : Jacoco
+Code Review   : Sonar Qube
+CI/CD	      : Jenkins
+VesionControl : Git
+Logging       : Log4j
+container     : Docker
