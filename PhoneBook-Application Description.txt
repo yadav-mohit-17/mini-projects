@@ -1,4 +1,5 @@
-PhoneBook Application is a Web Application. To Develop this application we Follow Real time industry coding standard. To develop this application we use language Java(Core-java, Jsp).
+PhoneBook Application is a Web Application. To Develop this application we Follow Real time industry coding standard. 
+To develop this application we use language Java(Core-java, Jsp).
 
 Framework     : SpringBoot, SpringMvc
 ORM	      : Hibernate

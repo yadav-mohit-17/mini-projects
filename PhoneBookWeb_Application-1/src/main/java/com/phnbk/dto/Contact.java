@@ -8,6 +8,11 @@ import lombok.Data;
 @Data
 public class Contact implements Serializable {
 	
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 1L;
+	
 	private Integer contactId;
 	private String contactName;
 	private String contactEmail;

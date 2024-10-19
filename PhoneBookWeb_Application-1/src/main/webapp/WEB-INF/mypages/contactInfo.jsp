@@ -22,6 +22,8 @@
 	<form:form action="/saveContact" method="post" modelAttribute="contact">
 		<table>
 			<tr>
+				<form:hidden path="contactId"/>
+				
 				<td>Contact Name :</td>
 				<td><form:input path="contactName" /></td>
 			</tr>
@@ -41,6 +43,7 @@
 			</tr>
 		</table>
 	</form:form>
+	<a href="viewContacts"> view All Contacts</a>
 </body>
 
 </html>

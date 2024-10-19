@@ -39,12 +39,12 @@ public class ContactEntity{
 	
 	@CreationTimestamp
 	@Temporal(TemporalType.DATE)
-	@Column(name="CREATED_DATE")
+	@Column(name="CREATED_DATE", updatable = false)
 	private Date createdDate;
 	
 	@UpdateTimestamp
 	@Temporal(TemporalType.DATE) //it use to specify in which formate you want to insert date
-	@Column(name="UPDATED_DATE")
+	@Column(name="UPDATED_DATE", insertable = false)
 	private Date updatedDate;	
 
 }

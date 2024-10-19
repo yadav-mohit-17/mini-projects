@@ -1,5 +1,0 @@
-package com.phnbk.repo;
-
-public interface ContactRepository {
-
-}
